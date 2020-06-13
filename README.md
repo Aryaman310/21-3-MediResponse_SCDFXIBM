@@ -40,4 +40,40 @@ Upon visiting a hospital, a patient who is diagnosed with a chronic disease (ex.
 
 # **Complete description**
 
-Find the complete description here
+[Find the complete description here](https://github.com/Aryaman310/21-3-MediResponse_SCDFXIBM/blob/master/Complete%20description.md)
+
+-----
+
+# **Getting started**
+
+----------
+
+# **Live demo**
+
+--------
+
+# ** Built using** 
+
+- The following IBM services were used
+  - Watson  
+  
+ - R for data interpretation and representation
+ 
+-------
+
+# **Authors** 
+
+Team 21/3-
+ - Bala Guru Kugan
+ - Jyotit Kaushal 
+ - Naman Kumar Jha 
+ - Viraj Mehta
+ - Aryaman Sharma
+
+------
+
+# **Acknowledgements**
+
+We would like to thank the entire IBM and SCDF team part of the Lifesavers innovation challenge: Call for code 2020 for providing us with assistance and valuable advice throughout the project. This project would not have been possible without them. 
+
+----------
