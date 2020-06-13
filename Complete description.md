@@ -51,5 +51,5 @@ MediResponse in its current state is in a position fog rea potential and can be 
 1. Effective usage of AED devices located around Singapore- In case of patients suffering from heart conditions, CFRs are alerted of devices in nearby locations. 
 2. Alzheimer patient tracking – Patients suffering from Alzheimer’s disease could be periodically checked for the location of their mobile device. In the case of a patient being outside a safe radius, a CFR is alerted and ensures that the patient is bought back to their home safely.
 3. Fall detection - In-built gyroscopes and accelerometers can be used to detect falls of patients. In the case of a patient not responding within a set time limit once a fall is detected, a CRF is alerted and dispatched to the location of the patient.  
-
+4. Automated detection of trends - With the help of Watson AI services, trends in patient readings can be reported to the doctor and a stray from regular readings can be seen as a hazard that calls for a check up.
 
