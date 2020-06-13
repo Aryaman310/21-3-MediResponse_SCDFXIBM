@@ -54,6 +54,8 @@ Upon visiting a hospital, a patient who is diagnosed with a chronic disease (ex.
 
 # **Solution architecture**
 
+![](https://github.com/Aryaman310/21-3-MediResponse_SCDFXIBM/blob/master/Program%20architecture.png)
+
 ----------
 
 # **Built using**
