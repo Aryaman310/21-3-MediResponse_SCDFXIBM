@@ -56,6 +56,11 @@ Upon visiting a hospital, a patient who is diagnosed with a chronic disease (ex.
 
 ![](https://github.com/Aryaman310/21-3-MediResponse_SCDFXIBM/blob/master/Program%20architecture.png)
 
+1. Hospitals upload patient data upon diagnosis to the server.
+2. The data gets stored on the server and is saved in pickled resources.
+3. The app is then downloaded by the patient and receives all the necessary information. 
+4. Already connected CFR phones receive data through server upon scanning of QR code.
+
 ----------
 
 # **Built using**
