@@ -52,13 +52,14 @@ Upon visiting a hospital, a patient who is diagnosed with a chronic disease (ex.
 
 --------
 
-# ** Built using** 
+# **Built using**
 
 - The following IBM services were used
-  - Watson  
-  
- - R for data interpretation and representation
- 
+  - [Watson](https://www.ibm.com/sg-en/watson) 
+
+- [Android studio](https://developer.android.com/studio) for a platform to run the app and contruct the UI
+- [Python](https://www.python.org/) 
+- [R](https://www.r-project.org/) for data interpretation and representation
 -------
 
 # **Authors** 
