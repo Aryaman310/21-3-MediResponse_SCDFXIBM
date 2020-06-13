@@ -52,6 +52,10 @@ Upon visiting a hospital, a patient who is diagnosed with a chronic disease (ex.
 
 --------
 
+# **Solution architecture**
+
+----------
+
 # **Built using**
 
 - [IBM Watson](https://www.ibm.com/sg-en/watson) to build chatbot
