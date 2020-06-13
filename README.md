@@ -54,12 +54,12 @@ Upon visiting a hospital, a patient who is diagnosed with a chronic disease (ex.
 
 # **Built using**
 
-- The following IBM services were used
-  - [Watson](https://www.ibm.com/sg-en/watson) 
-
+- [IBM Watson](https://www.ibm.com/sg-en/watson) to build chatbot
 - [Android studio](https://developer.android.com/studio) for a platform to run the app and contruct the UI
-- [Python](https://www.python.org/) 
+- [Python](https://www.python.org/)  to build the web and app servers
 - [R](https://www.r-project.org/) for data interpretation and representation
+- [SQL](https://www.mysql.com/) to run queries with python and access databases
+
 -------
 
 # **Authors** 
