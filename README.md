@@ -4,7 +4,7 @@ We are 21/3, a team of five students looking to assist the emergency response se
 **Contents**
 =============
 1. Quick description 
-2. Demo video
+2. Pitch video
 3. Solution architecture
 4. Complete description
 5. Getting started 
@@ -32,7 +32,7 @@ Upon visiting a hospital, a patient who is diagnosed with a chronic disease (ex.
 
 ------
 
-**Demo video**
+**Pitch video**
 ==============
 
 -------
