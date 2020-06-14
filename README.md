@@ -45,6 +45,21 @@ Upon visiting a hospital, a patient who is diagnosed with a chronic disease (ex.
 
 # **Getting started**
 
+ MediResponse is a python coded application that has been built on android studio. The requirements for hosting the server and running the application are different and have been mentioned below.
+ 
+ 
+ The server requirements are as follows:
+ 
+ - [Python 3+](https://www.python.org/) installed
+ - [Microsoft SQL server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) with valid SQL server name, database  and IP. The [table](https://cdn.discordapp.com/attachments/710393891609903165/721631419335573564/script.sql) must be a part of the database once installed.
+ - [RStudio](https://rstudio.com/products/rstudio/download/) installed
+ 
+MediResponse has been built using android studio and thus only requires 
+ 
+ 
+ 
+ 
+ 
 ----------
 
 # **Solution architecture**
@@ -63,7 +78,7 @@ Upon visiting a hospital, a patient who is diagnosed with a chronic disease (ex.
 - [IBM Watson](https://www.ibm.com/sg-en/watson) to build chatbot
 - [Android studio](https://developer.android.com/studio) for a platform to run the app and construct the UI
 - [Python](https://www.python.org/)  to build the web and app servers
-- [R](https://www.r-project.org/) for data interpretation and representation
+- [Rsutdio](https://rstudio.com/products/rstudio/download/) for data interpretation and representation
 - [SQL](https://www.mysql.com/) to run queries with python and access databases
 
 -------
