@@ -54,10 +54,28 @@ Upon visiting a hospital, a patient who is diagnosed with a chronic disease (ex.
  - [Microsoft SQL server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) with valid SQL server name, database  and IP. The [table](https://cdn.discordapp.com/attachments/710393891609903165/721631419335573564/script.sql) must be a part of the database once installed.
  - [RStudio](https://rstudio.com/products/rstudio/download/) installed
  
-MediResponse has been built using android studio and thus only requires 
+MediResponse has been built using android studio and thus the users are only required to download the [apk](https://cdn.discordapp.com/attachments/710393891609903165/721644990526390282/scdf_files.zip) 
+
+Upon installing the app, CRFs are required to follow the following steps to complete the setup.
+
+Step 1 - Sign up by clicking on create new account. In its current state, the server IP has not been hardcoded as it is still in the development phase. Thus, enter the server IP. 
+
+[Click here to view screenshot of initial homepage.](https://github.com/Aryaman310/21-3-MediResponse_SCDFXIBM/blob/master/Images/Sign-in%20page.jpg)
+
+[Users are prompted here to create new account.](https://github.com/Aryaman310/21-3-MediResponse_SCDFXIBM/blob/master/Images/new%20account%20page.jpg)
+
+Step 2 - After signing up, users can login by entering the details
+
+[Log-in details page aftre creating new account.](https://github.com/Aryaman310/21-3-MediResponse_SCDFXIBM/blob/master/Images/log%20in%20page.jpg) 
+
  
- 
- 
+Step 3 - The device is now capable of scanning valid QR codes and recieving insta-reports when required.
+
+[The homepage of the application.](https://github.com/Aryaman310/21-3-MediResponse_SCDFXIBM/blob/master/Images/qr%20code%20page%201.jpg) Click scan QR to activate reader
+
+[Scan page.](https://github.com/Aryaman310/21-3-MediResponse_SCDFXIBM/blob/master/Images/qr%20code%20page%202.jpg) Click fetch details to obtain insta-report
+
+[Insta-report sample](https://github.com/Aryaman310/21-3-MediResponse_SCDFXIBM/blob/master/Images/insta-report%20page.jpg)
  
  
 ----------
