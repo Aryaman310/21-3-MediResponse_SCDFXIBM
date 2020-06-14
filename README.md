@@ -8,11 +8,10 @@ We are 21/3, a team of five students looking to assist the emergency response se
 3. Solution architecture
 4. Complete description
 5. Getting started 
-6. Live demo
-7. Built using 
-8. Authors
-9. License 
-10. Acknowledgements 
+6. Built using 
+7. Authors
+8. License 
+9. Acknowledgements 
 
 -----------
 
@@ -47,10 +46,6 @@ Upon visiting a hospital, a patient who is diagnosed with a chronic disease (ex.
 # **Getting started**
 
 ----------
-
-# **Live demo**
-
---------
 
 # **Solution architecture**
 
