@@ -31,5 +31,5 @@ thalachp <- ggplot(data=hdata, aes(x=dates, y=thalach, type="l", group=4)) + geo
 plot_grid(cpp, testbpsp, cholp, thalachp)
 
 #write.csv(hdata, file = "Heart Data.csv", row.names=FALSE)
-there are a lot of fuckingn 
+
 
